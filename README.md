@@ -35,7 +35,4 @@ PUT      |/employee{id}| Çalışan bilgilerini günceller|integer (id) <p/> Emp
 
 ### Model
 Company
-{
-  id : Long  PK
-  name  : String
-}
+- ![images.png](images.png)
